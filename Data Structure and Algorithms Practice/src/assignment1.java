@@ -1,7 +1,4 @@
 /*
- * Author: Chengyan Liu 40024886
- * COMP 352
- * Assignment1
  * Programming Question
  * Version 1
  */

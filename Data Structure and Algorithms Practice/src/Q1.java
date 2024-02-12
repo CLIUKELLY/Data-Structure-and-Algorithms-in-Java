@@ -1,7 +1,4 @@
 /**
- * Chengyan Liu
- * 40024886
- * COMP352 Assignment 1
  * Question 1
  */
 
